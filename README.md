@@ -8,3 +8,4 @@ It will be a MVP.
 
 Potential development in the future is to add the use of fitbits that can communicate with bluetooth as watches that can monitor heartbeat, plasters that can check temperature, diabetes and so on.
 
+The team is trainees at Code Your Future. We will work on the app using HTML, CSS and javascript.
